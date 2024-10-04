@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: false
+    prefer_adjacent_string_concatenation: true
+    prefer_single_quotes: true
+    use_super_parameters: true
+    empty_statements: false
+    camel_case_types: true
+    type_annotate_public_apis: true
+    prefer_collection_literals: true
+    prefer_conditional_assignment: true
+    comment_references: true
+    prefer_relative_imports: true
